@@ -1,3 +1,3 @@
 # HelloWorld
 My First Repository on GitHub
-I love :outdoors: :cooking:, and :airplane:.
+I love :garden:, :cook:, and :airplane:.
