@@ -1,3 +1,3 @@
 # HelloWorld
 My First Repository on GitHub
-I love :leaf:, :cake:, and :airplane:.
+I love :green:, :cake:, and :airplane:.
